@@ -1,0 +1,6 @@
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.exe.config
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.exe
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\bin\Debug\Hello.pdb
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.exe
+c:\users\aditya_nalwaya\documents\visual studio 2013\Projects\Hello\Hello\obj\Debug\Hello.pdb
